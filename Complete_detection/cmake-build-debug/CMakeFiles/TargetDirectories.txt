@@ -1,0 +1,4 @@
+D:/clion tect/Complete_detection/cmake-build-debug/CMakeFiles/Complete_detection.dir
+D:/clion tect/Complete_detection/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion tect/Complete_detection/cmake-build-debug/CMakeFiles/armor_detection.dir
+D:/clion tect/Complete_detection/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+D:\cmake-3.20.2-windows-x86_64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2022.3/bin/ninja/win/ninja.exe" -G Ninja -S "D:\clion tect\Complete_detection" -B "D:\clion tect\Complete_detection\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/clion tect/Complete_detection/cmake-build-debug
